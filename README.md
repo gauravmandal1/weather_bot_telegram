@@ -19,7 +19,12 @@ Install dependencies of backend
   npm install 
   ```
 
-## working bot 
+# working bot 
 
 
 ![weather_bot](https://user-images.githubusercontent.com/64638825/215322138-eaa38195-8956-4fe7-9a2c-b2edc6aa2396.jpg)
+
+# talk to bot 
+https://web.telegram.org/k/#@weatra_bot 
+
+[start->enter your location]
