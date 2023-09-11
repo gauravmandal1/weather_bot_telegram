@@ -46,7 +46,6 @@ bot.on("text", async (ctx) => {
   }
 });
 console.log("hii")
-console.log("temo");
-
-
+=======
+console.log("temp")
 bot.launch();
