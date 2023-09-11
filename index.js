@@ -45,6 +45,7 @@ bot.on("text", async (ctx) => {
    
   }
 });
+console.log("hii")
 
 
 bot.launch();
